@@ -2,7 +2,7 @@
 <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
 
 -----
-#### I'm a beginner in software development with big ambitions and a desire to contribute something remarkable to the world of IT!
+#### I'm a beginner software developer with big ambitions and a desire to contribute something remarkable to the world of IT!
 
 ### My skills 👨‍💻:
 - **Languages**
@@ -57,6 +57,8 @@
 </tr>
 </tbody>
 </table>
++ REST
+<br>
 + JavaFX
 <br>
 + JDBC
