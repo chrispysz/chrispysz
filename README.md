@@ -55,6 +55,13 @@
 </td>
 
 </tr>
+
+<tr>
+ <td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"> 
+</td>
+ 
+ </tr>
 </tbody>
 </table>
 + REST
