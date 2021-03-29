@@ -66,6 +66,8 @@
 </table>
 + REST
 <br>
++ Retrofit2
+<br>
 + JavaFX
 <br>
 + JDBC
