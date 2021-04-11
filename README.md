@@ -30,6 +30,10 @@
 </td>
 
 <td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> 
+</td>
+
+<td align="center" width="33%">
 <img height=60px src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"> 
 </td>
 
@@ -66,18 +70,15 @@
 </table>
 + REST
 <br>
-+ Retrofit2
++ Retrofit
 <br>
 + JavaFX
-<br>
-+ JDBC
 
 
 ### I'm currently learning :open_book:
 - **Languages**
     - JavaScript
 - **Tools**
-    - Spring Boot
     - Docker
     
 
