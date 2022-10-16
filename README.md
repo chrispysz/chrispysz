@@ -1,24 +1,39 @@
 ### Hello World, I'm Chris :purple_heart:
-<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
 
 -----
-#### I'm a beginner software developer with big ambitions and a desire to contribute something remarkable to the world of IT!
+#### I'm a software engineer specializing in full-stack development with modern technologies. Currently I'm working with Quarkus and Angular, creating applications used by tens of thousands of customers in telecommunications industry.
 
 ### My skills 👨‍💻:
-- **Languages**
+- **Languages and frameworks**
 <table>
 <tbody>
  <tr>
 <td align="center" width="50%">
 <img height=60px src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> 
 </td>
-
 <td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"> 
+<img height=30px src="https://vectorwiki.com/images/95yAF__quarkus.svg"> 
+</td>
+</tr>
+ <tr>
+<td align="center" width="50%">
+<img height=60px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
+</td>
+<td align="center" width="50%">
+<img height=60px src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"> 
+</td>
+</tr>
+ <tr>
+<td align="center" width="50%">
+<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
+</td>
+<td align="center" width="50%">
+<img height=60px src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"> 
 </td>
 </tr>
 </tbody>
 </table>
+<br>
 
 - **Databases**
 <table>
@@ -26,60 +41,73 @@
 <tr>
 
 <td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> 
+<img height=80px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> 
 </td>
 
 <td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"> 
+<img height=84px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> 
 </td>
 
 </tr>
 </tbody>
 </table>
+<br>
 
-- **Tools and frameworks**
+- **Tools**
 <table>
 <tbody>
 <tr>
 
 <td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> 
+<img height=85px src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"> 
 </td>
 
 <td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"> 
+<img height=85px src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg"> 
 </td>
 
 <td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg"> 
+<img height=85px src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg"> 
 </td>
-
 </tr>
 
 <tr>
  <td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"> 
+<img height=85px src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> 
 </td>
+ <td align="center" width="33%">
+<img height=85px src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"> 
+</td>
+ <td align="center" width="33%">
+<img height=85px src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"> 
+</td>
+ </tr>
  
+ <tr>
+ <td align="center" width="33%">
+<img height=85px src="https://www.vectorlogo.zone/logos/redhat/redhat-ar21.svg"> 
+</td>
+ <td align="center" width="33%">
+<img height=40px src="https://upload.vectorlogo.zone/logos/apache_maven/images/bf250be6-ab7f-4191-b421-8d0acb1dc6e4.svg"> 
+</td>
+ <td align="center" width="33%">
+<img height=85px src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"> 
+</td>
+ </tr>
+ 
+  <tr>
+ <td align="center" width="33%">
+<img height=85px src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"> 
+</td>
+ <td align="center" width="33%">
+<img height=85px src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"> 
+</td>
+ <td align="center" width="33%">
+<img height=85px src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"> 
+</td>
  </tr>
 </tbody>
 </table>
-+ REST
-<br>
-+ Retrofit
-<br>
-+ JavaFX
-
-
-### I'm currently learning :open_book:
-- **Languages**
-    - JavaScript
-- **Tools**
-    - Docker
     
 
     
