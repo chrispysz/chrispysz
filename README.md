@@ -41,11 +41,11 @@
 <tr>
 
 <td align="center" width="33%">
-<img height=80px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> 
+<img height=70px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> 
 </td>
 
 <td align="center" width="33%">
-<img height=84px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> 
+<img height=70px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> 
 </td>
 
 </tr>
